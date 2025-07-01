@@ -1,4 +1,4 @@
-## Garbage Image Classifier AI Web App
+## SmartBin - A Garbage Classification AI Web App
 
 A beginner-friendly AI web application that classifies garbage into six categories— `cardboard`, `glass`, `metal`, `paper`, `plastic`, and `trash`. Developed as part of an AICTE internship project, the app is built using **TensorFlow/Keras** for the model and **Streamlit** for the interface. It supports live deployment from **Google Colab** using LocalTunnel.
 
