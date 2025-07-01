@@ -1,6 +1,6 @@
 streamlit
 gradio
-tensorflow==2.15.0
+tensorflow
 scikit-learn
 numpy
 pillow
