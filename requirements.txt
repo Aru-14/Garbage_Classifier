@@ -1,8 +1,9 @@
 streamlit
-tensorflow
+gradio
+tensorflow==2.15.0
+scikit-learn
 numpy
 pillow
-scikit-learn
 matplotlib
 seaborn
 
